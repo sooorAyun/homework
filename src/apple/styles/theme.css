@@ -11,7 +11,7 @@
 
   /* Box Size */
   /* 500px의 크기가 부족할 경우 임의대로 수정 가능 */
-  --size: 31.25rem; /* 500px - 카드 높이 고정 값 */
+  --size: 37.5rem; /* 500px - 카드 높이 고정 값 */
 
   /* Text Size */
   --xx-small-text: 0.75rem; /* 12px - Small Screen 버튼(링크) 글자 크기 */
